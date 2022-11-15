@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Groom-Yourself-By-React/static/css/main.58af3705.css",
+    "main.js": "/Groom-Yourself-By-React/static/js/main.d919cd69.js",
+    "static/js/787.4c026eef.chunk.js": "/Groom-Yourself-By-React/static/js/787.4c026eef.chunk.js",
+    "static/media/home.jpg": "/Groom-Yourself-By-React/static/media/home.0a9d5788a6b2041044c4.jpg",
+    "static/media/2.jpg": "/Groom-Yourself-By-React/static/media/2.542267ceefcc2b930f91.jpg",
+    "static/media/network.webp": "/Groom-Yourself-By-React/static/media/network.055ed85f7285288a269d.webp",
+    "static/media/bio.webp": "/Groom-Yourself-By-React/static/media/bio.5357325b5427fda3f7ad.webp",
+    "static/media/gd.webp": "/Groom-Yourself-By-React/static/media/gd.1739a706b00d30fd3386.webp",
+    "static/media/ML.webp": "/Groom-Yourself-By-React/static/media/ML.d63ef109c30491a0411a.webp",
+    "static/media/Dm.webp": "/Groom-Yourself-By-React/static/media/Dm.dfaf497227c75fb780a4.webp",
+    "static/media/DA.webp": "/Groom-Yourself-By-React/static/media/DA.d32bddb654db43b22ba2.webp",
+    "static/media/blog.webp": "/Groom-Yourself-By-React/static/media/blog.dff71d37dc795da937ac.webp",
+    "static/media/programming.webp": "/Groom-Yourself-By-React/static/media/programming.c838dcfc4d80d2d6c4c4.webp",
+    "index.html": "/Groom-Yourself-By-React/index.html",
+    "main.58af3705.css.map": "/Groom-Yourself-By-React/static/css/main.58af3705.css.map",
+    "main.d919cd69.js.map": "/Groom-Yourself-By-React/static/js/main.d919cd69.js.map",
+    "787.4c026eef.chunk.js.map": "/Groom-Yourself-By-React/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58af3705.css",
+    "static/js/main.d919cd69.js"
+  ]
+}
